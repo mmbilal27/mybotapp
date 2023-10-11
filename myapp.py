@@ -1,3 +1,4 @@
 import streamlit as st
 
-st.write("my bot app")
+st.title("my practice bot app")
+st.write("Lets create a bot app on streamlit")
